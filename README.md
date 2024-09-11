@@ -48,7 +48,9 @@ During the operating system installation, I used the ISO file I had downloaded, 
 ![7](https://github.com/user-attachments/assets/97e6e1b0-6b2b-4c4f-a2be-58fb97f57285)
 
 <p>
-Since this was a fresh installation, an upgrade was not required. I chose the “Custom: Install Windows Only” option.
+Since this was a fresh installation, an upgrade was not required. 
+
+I chose the “Custom: Install Windows Only” option.
 </p>
 
 ![8](https://github.com/user-attachments/assets/f432d074-131f-4959-b0dc-8d2af72412de)
